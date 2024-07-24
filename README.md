@@ -12,6 +12,5 @@ By building this clone I learn so many new CSS property Take it as initail learn
  <h2 align= "center">Show your support! </br>
 Thank You !</h2>
 
-## Keep Coding! Keep Building!
-
+### Keep Coding! Keep Building!
 ### Give a ⭐ if you like this Animation!

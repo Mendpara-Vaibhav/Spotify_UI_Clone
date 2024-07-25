@@ -14,4 +14,4 @@ Thank You !</h2>
 
 ### Keep Coding! Keep Building!
 
-### Give a ⭐ if you like this Animation!
+### Give a ⭐ if you like this Spotify UI Clone!
